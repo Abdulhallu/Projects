@@ -1,11 +1,18 @@
 # Biomedical Workforce Analysis Using ACS Data
 
-Used Census PUMS data to analyze diversity and trends in the U.S. biomedical workforce for the National Institute of General Medical Sciences.
+Analyzed U.S. Census ACS PUMS data for the National Institute of General Medical Sciences to uncover demographic and socioeconomic trends in the biomedical workforce.
 
-## Tools
+## 📌 Objective
+- Analyze diversity and workforce representation using survey data
+- Deliver policy-supporting insights
+
+## 🧰 Tools & Techniques
 - Python (pandas, numpy)
 - Jupyter Notebook
-- Excel
-- Tableau
+- Tableau Dashboard
+- Excel Table Shells
 
-Create NIGMS_ACS folder with README
+## 📂 Key Files
+- Main Notebook (.ipynb)
+- Report & Presentation (PDF)
+- Tableau Workbook
