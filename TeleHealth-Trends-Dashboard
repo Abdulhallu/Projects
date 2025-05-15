@@ -1,0 +1,32 @@
+## TeleHealth Trends Dashboard (Power BI – Healthcare Analytics)
+
+This Power BI dashboard explores telehealth visit patterns using synthetic healthcare data. It focuses on patient demographics, appointment trends, satisfaction scores, and department referrals across various time frames and care types.
+
+### 📊 Dashboard Insights:
+- **KPI Overview**: Total visits, gender split, weekday/weekend traffic, average wait time, satisfaction score
+- **Time Trends**: Daily, monthly, quarterly, and yearly visit breakdowns with interactive slicers
+- **Demographics**: Gender, race, and age distribution analysis
+- **Operational Metrics**: Wait time patterns, visit time (AM/PM), department referrals, and admin flag status
+- **Satisfaction Analysis**: Score distribution and trend interpretation
+
+### 🔧 My Contributions:
+- Understood dashboard design logic and KPI placement
+- Practiced advanced Power BI slicers and layout formatting
+- Explored filter setup, donut/bar chart optimization, and interactive insights
+- Reviewed DAX measures used for time-based grouping
+
+### 🛠️ Tools Used:
+- Power BI Desktop
+- DAX
+- Excel
+
+### 📂 Dataset:
+- Synthetic healthcare dataset used for visualization  
+- Includes columns for timestamp, department, visit type, satisfaction, gender, race, wait time
+
+---
+
+### 📎 Files Included:
+- `Healthcare_Data_Analysis.pbix`: Power BI dashboard file  
+- `Healthcare_Dashboard_1.JPG` and `Healthcare_Dashboard_2.JPG`: Visual previews  
+- `Healthcare dataset.xlsx`: Source data
