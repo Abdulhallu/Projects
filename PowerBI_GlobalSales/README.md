@@ -1,12 +1,26 @@
-## Power BI Global Sales Dashboard (Collaborative)
+## Global Sales Dashboard (Power BI – Collaborative)
 
-This dashboard analyzes the Global Superstore dataset using Power BI to surface insights on sales, profit, and orders across categories and regions.
+This interactive dashboard analyzes sales performance using the Global Superstore dataset. It delivers key insights into revenue, order quantity, delivery metrics, customer value, and product profitability across segments, markets, and regions.
 
-My Contributions:
-- Reviewed and refined DAX calculations
-- Explored Power Query transformations
-- Learned dashboard filters and layout design via collaboration
+### 📊 Dashboard Highlights:
+- **Sales Breakdown by Segment and Market**: Includes pie and donut charts to visualize revenue by Consumer, Corporate, and Home Office segments across regions like Asia Pacific, LATAM, and USCA.
+- **Sales by Region Map**: Dynamic map view of global sales with geolocation insights.
+- **Top 10 Customers & Products**: Horizontal bar charts show highest-value customers and most/least profitable products.
+- **Time Filters**: Multi-year slicer (2012–2015) for trend comparison.
+- **Performance KPIs**: Sales, quantity, average delivery days, and return orders displayed in KPI cards.
 
-Tools: Power BI, Excel  
-Dataset: [Kaggle – Global Superstore](https://www.kaggle.com/datasets/tahir1413/global-superstore-2016)
+### 💡 My Learning & Contribution:
+- Explored and understood DAX for calculated columns and measures
+- Analyzed layout structure, visual selection, and storytelling flow
+- Practiced dynamic filtering, slicer logic, and visual interactions
+- Contributed to design tweaks and deployment via GitHub
+
+### 🧰 Tools Used:
+- Power BI (Desktop)
+- Power Query
+- DAX
+- Excel
+
+### 📂 Dataset:
+- Global Superstore (source: Kaggle) – [View Dataset](https://www.kaggle.com/datasets/tahir1413/global-superstore-2016)
 
